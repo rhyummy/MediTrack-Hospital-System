@@ -1,0 +1,18 @@
+[
+  {
+    "bill_id": "79b5d67d",
+    "patient_id": "dc6670c2",
+    "date": "2025-09-16",
+    "amount": 4875032.0,
+    "mode": "Cash",
+    "remarks": "10/10 experience."
+  },
+  {
+    "bill_id": "5d9a95c5",
+    "patient_id": "45c7a1f4",
+    "date": "2003-09-16",
+    "amount": 40000.0,
+    "mode": "Card",
+    "remarks": "blackpisss"
+  }
+]

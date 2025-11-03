@@ -1,0 +1,26 @@
+[
+  {
+    "appt_id": "6ca48d45",
+    "patient_id": "fe459b6c",
+    "doctor_id": "09b8f18c",
+    "date": "10:00",
+    "time": "10:00",
+    "status": "Booked"
+  },
+  {
+    "appt_id": "8f89a925",
+    "patient_id": "45c7a1f4",
+    "doctor_id": "0",
+    "date": "0",
+    "time": "0",
+    "status": "Booked"
+  },
+  {
+    "appt_id": "0d2c46b3",
+    "patient_id": "45c7a1f4",
+    "doctor_id": "09b8f18c",
+    "date": "2003-08-09",
+    "time": "21:00",
+    "status": "Booked"
+  }
+]
